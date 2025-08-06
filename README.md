@@ -1,4 +1,4 @@
-# Network-Traffic-Classification-with-ML
+# Network-Traffic-Classification-with-ML-CHARU
 Repo is contain the code of Network Traffic Classification with ML techniques on NIMS and Real time dataset
 
 Before starting the implementation download the NIMS dataset - https://projects.cs.dal.ca/projectx/Download.html
